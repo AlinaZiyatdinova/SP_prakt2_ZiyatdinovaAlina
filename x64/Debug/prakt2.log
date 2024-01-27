@@ -1,0 +1,7 @@
+﻿  prakt2.cpp
+C:\Users\st312-06\Desktop\Ziyatdinova_PR31\prakt2\prakt2.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st312-06\Desktop\Ziyatdinova_PR31\prakt2\prakt2.cpp(52,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st312-06\Desktop\Ziyatdinova_PR31\prakt2\prakt2.cpp(143,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\st312-06\Desktop\Ziyatdinova_PR31\prakt2\prakt2.cpp(147,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\st312-06\Desktop\Ziyatdinova_PR31\prakt2\prakt2.cpp(149,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  prakt2.vcxproj -> C:\Users\st312-06\Desktop\Ziyatdinova_PR31\prakt2\x64\Debug\prakt2.exe
